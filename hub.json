@@ -1,0 +1,6 @@
+{
+  "title": "OES Hub",
+  "description": "The official public hub for OES content. Anyone can browse it, and any OES app can import from it.",
+  "url": "https://open-education-standards.github.io/hub/",
+  "namespace_rule": "github-owner"
+}
