@@ -1,0 +1,93 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/opk/v0.2.0/package.schema.json",
+  "opk_version": "0.2.0",
+  "name": "open-education-standards/getting-started",
+  "version": "1.0.0",
+  "title": "Getting started with OES",
+  "description": "A short course on what OES is and how to write your first question, with a self-check quiz.",
+  "license": "CC-BY-4.0",
+  "language": "en",
+  "tags": [
+    "oes",
+    "getting-started"
+  ],
+  "oes_version": "0.3.0",
+  "entry": {
+    "type": "course",
+    "path": "course.json"
+  },
+  "requires": {
+    "profiles": [
+      "Core",
+      "+Practice"
+    ]
+  },
+  "digest": "sha256-e35c0816ff73d32b43261342c0857a6d8624c72ee7cc4bd5f2768dede42ad7de",
+  "files": [
+    {
+      "path": "README.md",
+      "sha256": "6243fd832414da15002b77547b69896535ada0ec65368ddd0a1c1d016f3e62a8",
+      "bytes": 500
+    },
+    {
+      "path": "course.json",
+      "sha256": "015d960474dd445d5f7f7379ef6cf6d2df1f73e3f82b56c6519f607a5bac1abc",
+      "bytes": 473
+    },
+    {
+      "path": "modules/basics/lessons/first-question/articles/first-question/article.json",
+      "sha256": "e75f8a0fada63d894f05477f148f2313a38f4316525b51a3fbe6645ee5e210c7",
+      "bytes": 311
+    },
+    {
+      "path": "modules/basics/lessons/first-question/articles/first-question/content.md",
+      "sha256": "823a286dab709adcf3f7ddb9db8320eeda6388bc760cea60a44e82746647d6bb",
+      "bytes": 1386
+    },
+    {
+      "path": "modules/basics/lessons/first-question/check/questions/graded-answers/question.json",
+      "sha256": "da0f5a22c7c78c13e74bb8af1d6b8fc33dbb2a1cccfbb6d3af485c774af00471",
+      "bytes": 970
+    },
+    {
+      "path": "modules/basics/lessons/first-question/check/questions/out-of-scope/question.json",
+      "sha256": "0898ba9e9091217f55b714adbdb416df630cf8923595adc4740a090599999487",
+      "bytes": 802
+    },
+    {
+      "path": "modules/basics/lessons/first-question/check/questions/which-spec/question.json",
+      "sha256": "fe1a4cbbd33c0c453ceb46e1ccf1048e76c1d7c8ac57ce0a472614595f02aa8e",
+      "bytes": 740
+    },
+    {
+      "path": "modules/basics/lessons/first-question/check/set.json",
+      "sha256": "010e5c1241357c685cabfe9c6500f6401d7971c7e76164b89d89c7e81fee9eaf",
+      "bytes": 501
+    },
+    {
+      "path": "modules/basics/lessons/first-question/lesson.json",
+      "sha256": "26c67c9d6e6faf3be296a85a299394d4a06384f889ae1bb434f9113bc94820c8",
+      "bytes": 468
+    },
+    {
+      "path": "modules/basics/lessons/what-is-oes/articles/what-is-oes/article.json",
+      "sha256": "87a776ab3ae3793507a595beb2c5e62bfcc79bb0b9c61412f1befc8a5969afa4",
+      "bytes": 294
+    },
+    {
+      "path": "modules/basics/lessons/what-is-oes/articles/what-is-oes/content.md",
+      "sha256": "4ea80c6cc3ea9b2d1696b3ca6a221ff90bfcd4238958192b1cb820d97b0c5215",
+      "bytes": 1484
+    },
+    {
+      "path": "modules/basics/lessons/what-is-oes/lesson.json",
+      "sha256": "ae942e98431837782f71685663790924aa9c48feae8345dd4300e105e9a4206f",
+      "bytes": 321
+    },
+    {
+      "path": "modules/basics/module.json",
+      "sha256": "61bdb0b591ac5b98850b695636170ef2b9b219bb9b30aec7dc3dcebf729a6858",
+      "bytes": 350
+    }
+  ]
+}

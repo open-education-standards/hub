@@ -1,0 +1,31 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/oqf/v0.2.0/question.schema.json",
+  "oqf_version": "0.2.0",
+  "id": "out-of-scope",
+  "type": "mcq",
+  "title": "What OES leaves out",
+  "statement": "What does OES deliberately leave out of its documents?",
+  "type_config": {
+    "options": [
+      {
+        "id": "a",
+        "content": "Progress, attempts and grades"
+      },
+      {
+        "id": "b",
+        "content": "Prose in Markdown"
+      },
+      {
+        "id": "c",
+        "content": "Images"
+      },
+      {
+        "id": "d",
+        "content": "Version numbers"
+      }
+    ],
+    "answer": "a"
+  },
+  "explanation": "OES describes content. Progress, attempts and grades are learner data, which belongs to the app the learner uses.",
+  "difficulty": "easy"
+}

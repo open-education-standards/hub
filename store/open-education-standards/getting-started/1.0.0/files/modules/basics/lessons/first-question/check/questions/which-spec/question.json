@@ -1,0 +1,31 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/oqf/v0.2.0/question.schema.json",
+  "oqf_version": "0.2.0",
+  "id": "which-spec",
+  "type": "mcq",
+  "title": "Which spec describes a question",
+  "statement": "Which OES spec describes a single question?",
+  "type_config": {
+    "options": [
+      {
+        "id": "a",
+        "content": "OQF"
+      },
+      {
+        "id": "b",
+        "content": "OPF"
+      },
+      {
+        "id": "c",
+        "content": "OCF"
+      },
+      {
+        "id": "d",
+        "content": "OPK"
+      }
+    ],
+    "answer": "a"
+  },
+  "explanation": "OQF, the Open Question Format, describes one question. OPF describes a practice set, which lists questions.",
+  "difficulty": "easy"
+}

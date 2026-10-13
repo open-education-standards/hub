@@ -1,0 +1,16 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/ocf/v0.3.0/course.schema.json",
+  "ocf_version": "0.3.0",
+  "id": "basics",
+  "title": "The basics",
+  "lessons": [
+    {
+      "id": "what-is-oes",
+      "path": "lessons/what-is-oes"
+    },
+    {
+      "id": "first-question",
+      "path": "lessons/first-question"
+    }
+  ]
+}

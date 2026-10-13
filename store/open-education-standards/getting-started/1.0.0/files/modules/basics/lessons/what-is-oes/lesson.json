@@ -1,0 +1,14 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/ocf/v0.3.0/course.schema.json",
+  "ocf_version": "0.3.0",
+  "id": "what-is-oes",
+  "title": "What OES is",
+  "estimated_mins": 8,
+  "items": [
+    {
+      "type": "article",
+      "id": "what-is-oes",
+      "path": "articles/what-is-oes"
+    }
+  ]
+}

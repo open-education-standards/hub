@@ -1,0 +1,12 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/oaf/v0.2.0/article.schema.json",
+  "oaf_version": "0.2.0",
+  "id": "what-is-oes",
+  "title": "What OES is",
+  "content": {
+    "file": "content.md"
+  },
+  "license": "CC-BY-4.0",
+  "language": "en",
+  "estimated_mins": 8
+}

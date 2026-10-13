@@ -1,0 +1,31 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/oqf/v0.2.0/question.schema.json",
+  "oqf_version": "0.2.0",
+  "id": "graded-answers",
+  "type": "mcq",
+  "title": "Where a graded question keeps its answer",
+  "statement": "Where does a graded question keep its answer, so that an app showing it to a learner never receives the answer?",
+  "type_config": {
+    "options": [
+      {
+        "id": "a",
+        "content": "Inline, in `type_config`"
+      },
+      {
+        "id": "b",
+        "content": "In a separate file named by `answer_key`"
+      },
+      {
+        "id": "c",
+        "content": "In the practice set's `set.json`"
+      },
+      {
+        "id": "d",
+        "content": "In the course's `course.json`"
+      }
+    ],
+    "answer": "b"
+  },
+  "explanation": "A graded question moves its answer into a separate file named by `answer_key`. With the answer inline, the question is meant for self-practice.",
+  "difficulty": "easy"
+}

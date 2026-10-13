@@ -1,0 +1,20 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/ocf/v0.3.0/course.schema.json",
+  "ocf_version": "0.3.0",
+  "id": "first-question",
+  "title": "Your first question",
+  "estimated_mins": 12,
+  "items": [
+    {
+      "type": "article",
+      "id": "first-question",
+      "path": "articles/first-question"
+    },
+    {
+      "type": "practice_set",
+      "id": "check",
+      "title": "Check your understanding",
+      "path": "check"
+    }
+  ]
+}

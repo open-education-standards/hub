@@ -1,0 +1,23 @@
+{
+  "$schema": "https://open-education-standards.github.io/oes/schemas/opf/v0.3.0/set.schema.json",
+  "opf_version": "0.3.0",
+  "id": "check",
+  "title": "Check your understanding",
+  "questions": [
+    {
+      "id": "which-spec",
+      "path": "questions/which-spec",
+      "points": 1
+    },
+    {
+      "id": "graded-answers",
+      "path": "questions/graded-answers",
+      "points": 1
+    },
+    {
+      "id": "out-of-scope",
+      "path": "questions/out-of-scope",
+      "points": 1
+    }
+  ]
+}
