@@ -54,3 +54,4 @@ Pull requests that change it are rejected.
 
 Use [`hub-template`](https://github.com/open-education-standards/hub-template)
 to start a hub of your own, for a school, a team or a subject.
+
